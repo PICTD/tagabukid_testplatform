@@ -1,0 +1,867 @@
+[0313/131431.099:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/131431.099:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/131559.803:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/131559.803:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/131728.153:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/131728.154:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/132022.287:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/132022.287:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/132104.469:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/132104.470:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/132248.868:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/132248.869:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/132821.422:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/132821.423:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/132927.659:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/132927.660:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/132937.495:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 1
+[0313/133432.759:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/133432.759:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/133842.633:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/133842.634:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/134015.474:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/134015.474:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/134044.913:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/134044.914:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/134127.321:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/134127.321:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/134221.109:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/134221.109:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/134507.950:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/134507.951:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/140309.827:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/140309.827:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/140315.327:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/140315.342:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/140315.781:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/140315.789:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/140315.789:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/140315.790:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/140315.790:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/140315.792:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/140316.283:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/140316.303:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/140455.450:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/140455.450:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/140458.862:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/140458.863:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/140604.183:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/140604.183:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/140609.751:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/140609.751:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/140921.869:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/140921.869:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/141136.776:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/141136.777:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/141326.756:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/141326.756:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/141332.507:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/141332.508:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/141332.593:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 15
+[0313/141332.638:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 17
+[0313/141332.664:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 21
+[0313/141332.822:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 13
+[0313/141825.766:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/141825.767:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/141830.448:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/141830.448:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/141830.639:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/141830.826:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/141830.919:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/141830.920:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/141831.065:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/141831.220:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/141832.014:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/141832.122:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/151053.162:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/151053.162:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/151056.520:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/151056.521:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/151056.917:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/151056.917:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/151056.917:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/151056.918:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/151056.918:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/151056.920:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/151057.267:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/151057.281:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/151218.047:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/151218.047:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/151712.796:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/151712.797:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/151715.445:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/151715.446:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/151715.523:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 19
+[0313/151715.525:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 17
+[0313/151715.529:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 21
+[0313/151938.261:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/151938.262:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/151941.492:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/151941.493:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/151941.904:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/151941.905:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/151941.905:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/151941.906:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/151941.909:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/151941.909:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/151942.240:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/151942.257:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/153842.727:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/153842.728:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/153845.312:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/153845.312:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/153845.520:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/153845.521:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/153845.524:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/153845.525:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/153845.525:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/153845.528:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/153845.826:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/153845.841:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/153851.608:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/153852.084:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/153852.088:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/153915.253:WARNING:audio_sync_reader.cc(166)] AudioSyncReader::Read timed out, audio glitch count=1
+[0313/154046.774:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/154046.775:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/154049.320:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/154049.321:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/154049.507:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154049.508:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154049.508:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154049.508:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154049.508:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154049.510:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154049.812:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/154049.826:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/154321.444:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/154321.445:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/154324.267:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/154324.268:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/154324.510:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154324.511:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154324.511:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154324.512:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154324.512:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154324.514:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154324.787:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/154324.801:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/154600.647:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/154600.648:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/154603.161:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/154603.162:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/154603.351:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154603.351:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154603.351:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154603.352:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154603.352:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154603.354:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/154603.692:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/154603.706:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/155438.789:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/155438.789:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/155441.256:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/155441.256:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/155441.452:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/155441.452:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/155441.452:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/155441.453:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/155441.453:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/155441.455:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/155441.745:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/155441.758:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/155626.856:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/155626.857:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/155629.277:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/155629.277:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/155629.476:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/155629.476:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/155629.476:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/155629.477:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/155629.477:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/155629.478:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/155704.523:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/155704.523:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/155937.976:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/155937.976:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/160024.470:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/160024.470:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/160027.106:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160027.106:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160027.309:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160027.310:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160027.311:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160027.311:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160027.311:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160027.311:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160027.606:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160027.619:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160123.785:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/160123.786:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/160126.884:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160126.885:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160127.096:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160127.097:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160127.098:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160127.098:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160127.107:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160127.109:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160127.354:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160335.654:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/160335.656:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/160414.572:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/160414.572:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/160417.156:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160417.157:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160417.350:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160417.350:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160417.351:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160417.351:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160417.351:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160417.359:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160418.038:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160418.057:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160434.108:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/160434.109:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/160436.729:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160436.730:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160436.917:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160436.917:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160436.918:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160436.918:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160436.918:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160436.921:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160437.203:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160437.217:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160545.426:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/160545.427:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/160548.269:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160548.269:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160548.462:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160548.463:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160548.463:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160548.464:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160548.464:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160548.466:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160548.770:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160548.782:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160608.190:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/160608.191:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/160610.822:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160610.822:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160611.019:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160611.020:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160611.020:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160611.021:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160611.021:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160611.024:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160611.316:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160611.330:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160644.830:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/160644.830:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/160647.607:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160647.607:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160647.822:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160647.823:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160647.823:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160647.824:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160647.824:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160647.826:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160704.551:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/160704.551:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/160707.142:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160707.143:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160707.516:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160707.517:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160707.517:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160707.517:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160707.520:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160707.523:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160707.848:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160707.967:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160830.972:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/160830.972:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/160833.458:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160833.459:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160847.877:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/160847.877:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/160850.387:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160850.388:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160850.573:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160850.574:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160850.574:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160850.574:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160850.574:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160850.578:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/160850.866:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/160850.878:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/161007.012:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/161007.013:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/161009.558:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/161009.558:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/161009.623:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 19
+[0313/161102.322:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/161102.322:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/161105.189:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/161105.189:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/161415.155:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/161415.155:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/161417.868:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/161417.869:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/162615.426:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/162615.426:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/162618.136:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/162618.137:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/162618.208:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 17
+[0313/162618.215:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 19
+[0313/162618.215:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 21
+[0313/162618.215:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 23
+[0313/163230.834:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/163230.834:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/163233.494:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/163233.495:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/163233.569:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 17
+[0313/163556.514:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/163556.515:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/163559.654:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/163559.654:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/163559.848:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/163559.849:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/163559.849:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/163559.849:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/163559.849:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/163559.851:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/163621.165:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/163621.166:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/163623.773:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/163623.774:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/163623.846:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 15
+[0313/164736.456:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/164736.457:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/164740.303:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/164740.304:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/164740.964:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/164740.965:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/164740.967:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/164740.968:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/164740.969:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/164740.979:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/164741.651:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/164741.669:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/164815.382:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/164815.383:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/164818.781:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/164818.781:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/164900.196:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/164900.196:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/165537.524:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/165537.524:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/165540.221:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/165540.222:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/165540.538:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/165540.539:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/165540.539:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/165540.539:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/165540.540:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/165540.547:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/165540.820:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/165540.834:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/170153.153:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/170153.153:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/170156.186:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/170156.186:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/170156.378:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/170156.378:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/170156.378:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/170156.378:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/170156.379:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/170156.384:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/170156.679:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/170156.691:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/205225.216:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/205225.216:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/210317.652:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/210317.653:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/212801.240:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/212801.241:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/212855.146:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/212855.147:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/213504.676:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/213504.676:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/213510.577:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213510.577:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213511.180:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/213511.416:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/213511.666:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/213511.671:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/213511.700:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/213511.948:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/213516.905:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213517.165:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213631.146:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213631.263:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213631.264:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213640.267:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213640.425:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213646.136:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213714.458:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213715.301:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213715.338:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213802.574:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/213802.574:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/213802.575:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/213802.576:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/213802.576:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/213802.576:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/213807.204:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213807.255:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213807.270:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213807.271:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213807.495:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213807.843:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213808.225:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213808.682:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/213841.421:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215749.575:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/215749.576:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/215755.141:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215755.142:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215755.763:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215756.026:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215756.447:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215756.448:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215756.708:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215756.737:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215758.225:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215758.491:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215809.430:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215809.837:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215809.838:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215849.780:WARNING:audio_output_device.cc(316)] Output device authorization timed out
+[0313/215853.703:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0313/215905.042:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215905.042:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215905.043:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215905.043:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215905.044:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215905.046:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215908.683:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215909.102:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215909.170:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215909.197:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215909.281:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215909.693:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215910.255:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215910.649:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215950.424:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/215950.424:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/215955.836:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215955.837:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215956.448:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215956.718:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215956.960:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215956.966:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215957.016:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215957.342:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/215958.635:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/215959.486:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/220011.570:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/220011.800:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/220011.942:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/220502.737:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/220502.737:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/220509.081:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/220509.082:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/221733.697:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/221733.698:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/221739.342:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/221739.343:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/221740.005:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/221740.286:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/221740.509:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/221740.583:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/221740.749:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/221740.840:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/221742.290:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/221742.780:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/221839.565:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0313/221839.566:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0313/221844.698:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/221844.698:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0313/221847.966:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/221847.991:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/221848.282:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/221848.526:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/221848.682:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0313/221848.838:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080540.573:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/080540.648:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/080554.838:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 5
+[0314/080717.280:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/080717.281:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/080723.451:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080723.477:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080724.838:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080724.846:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080724.846:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080724.846:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080724.848:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080724.850:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080725.286:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080731.241:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080731.799:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080731.932:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080740.224:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080740.225:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080740.225:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080740.226:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080740.228:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080740.228:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080740.927:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080740.952:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080740.953:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080740.953:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080740.954:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080740.955:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080741.060:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080741.291:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080857.791:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/080857.792:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/080935.513:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080935.514:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080935.712:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080935.713:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080935.713:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080935.713:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080935.714:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080935.720:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/080936.027:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/080936.048:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/081129.815:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/081129.816:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/081132.476:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/081132.477:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/081132.691:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/081132.695:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/081132.709:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/081132.751:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/081132.751:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/081132.755:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/081133.093:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/081133.107:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/081212.557:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/081212.558:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/081212.559:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/081212.559:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/081212.559:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/081212.559:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/081212.911:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/081212.926:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/081809.230:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/081809.327:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/081844.890:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/081845.014:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082009.252:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/082009.253:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/082012.179:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082012.179:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082012.305:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 15
+[0314/082012.306:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 17
+[0314/082012.306:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 19
+[0314/082012.306:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 21
+[0314/082012.321:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 23
+[0314/082012.343:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 13
+[0314/082639.512:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/082639.590:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/082639.597:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0314/082639.597:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0314/082639.597:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0314/082639.597:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0314/082639.597:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0314/082642.556:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082642.557:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082647.956:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082648.015:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082648.015:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082648.016:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082648.016:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082648.016:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082648.905:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082708.118:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082709.658:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082710.164:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082728.262:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082803.213:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082803.215:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082803.215:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082803.216:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082803.216:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082803.216:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082804.922:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082804.951:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082804.952:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082804.955:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082804.956:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082804.957:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082805.036:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082805.236:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082847.381:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082847.381:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082847.382:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082847.383:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082847.386:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082847.392:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/082912.926:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082913.017:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082913.018:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082913.021:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082913.024:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082913.025:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082913.237:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/082913.420:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/084453.736:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/084453.737:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/084457.273:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/084457.274:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/084457.872:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/084457.873:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/084457.873:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/084457.873:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/084457.878:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/084457.879:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/084458.316:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/084537.366:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/084537.367:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/084537.367:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/084537.368:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/084537.368:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/084537.368:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/084537.684:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/084537.703:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/084643.019:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 17
+[0314/084643.030:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 19
+[0314/084643.040:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 21
+[0314/084956.025:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/084956.025:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/085000.111:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/085000.111:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/085000.722:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085000.723:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085000.724:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085000.724:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085000.725:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085000.727:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085001.232:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/085001.259:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/085139.776:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/085139.776:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/085143.115:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/085143.115:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/085143.392:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085143.392:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085143.393:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085143.393:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085143.393:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085143.394:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085143.797:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/085143.815:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/085227.316:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085227.317:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085227.317:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085227.318:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085227.318:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085227.318:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/085227.671:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/085227.695:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/090311.308:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/090311.309:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/091616.742:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/091616.743:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/091620.790:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/091620.791:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/091620.897:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 17
+[0314/091620.903:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 19
+[0314/091620.905:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 21
+[0314/092114.513:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/092114.513:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/092117.608:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/092117.608:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/092117.692:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 17
+[0314/092117.711:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 21
+[0314/092117.716:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 23
+[0314/092239.779:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/092239.780:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/092242.924:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/092242.925:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/092243.348:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/092243.348:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/092243.349:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/092243.349:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/092243.349:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/092243.352:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/092243.745:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/092243.764:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/092824.949:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/092824.949:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/092828.343:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/092828.343:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/092931.950:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/092931.950:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/092935.362:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/092935.362:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/092935.443:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 15
+[0314/092935.449:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 17
+[0314/092935.469:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 19
+[0314/092935.473:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 21
+[0314/092935.481:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 23
+[0314/093100.091:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/093100.092:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/093103.256:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/093103.257:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/093103.327:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 15
+[0314/093103.346:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 17
+[0314/093103.354:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 19
+[0314/093103.354:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 21
+[0314/093103.362:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 23
+[0314/093148.511:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/093148.511:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/093151.828:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/093151.828:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/093152.334:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093152.338:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093152.339:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093152.339:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093152.339:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093152.340:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093152.765:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/093152.785:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/093356.524:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/093356.524:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/093359.792:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/093359.793:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/093400.078:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093400.079:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093400.079:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093400.080:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093400.080:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093400.082:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093400.401:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/093400.418:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/093720.662:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/093720.662:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/093723.876:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/093723.877:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/093723.954:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 11
+[0314/093723.973:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 15
+[0314/093724.020:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 17
+[0314/093724.034:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 19
+[0314/093724.037:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 21
+[0314/093940.147:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0314/093940.148:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0314/093943.597:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/093943.597:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/093944.077:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093944.077:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093944.078:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093944.078:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093944.079:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093944.081:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0314/093944.419:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0314/093944.436:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/135911.922:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/135912.134:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/135928.469:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/135928.675:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/135930.649:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/135930.742:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/135931.722:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/135931.723:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/135931.723:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/135931.724:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/135935.298:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/135935.688:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/140032.003:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 41
+[0427/141418.530:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/141418.531:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/141425.825:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/141425.826:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/141426.133:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/141426.564:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/141426.597:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/141426.827:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/141426.832:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/141426.833:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/141428.890:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/141428.965:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/150635.695:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/150635.743:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/150719.254:ERROR:latency_info.cc(163)] RenderWidgetHostImpl::OnSwapCompositorFrame, LatencyInfo vector size 103 is too big.
+[0427/150719.492:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/150719.518:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/150720.519:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/150721.458:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/150721.748:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/150721.779:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/150725.173:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/150727.056:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/152713.851:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/152713.851:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/152941.698:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/152941.698:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/153154.038:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/153154.038:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/153157.384:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/153157.385:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/153157.635:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/153157.635:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/153157.636:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/153157.636:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/153157.636:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/153157.637:ERROR:render_media_log.cc(25)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0427/153158.210:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/153158.268:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/153205.331:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/153205.446:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/153205.447:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/153327.068:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/153332.237:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/153352.008:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/153352.021:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/153352.022:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/153352.488:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/155104.016:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/155104.017:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/155229.851:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/155229.852:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/155333.667:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/155333.667:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/155548.570:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/155548.570:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/155651.899:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/155651.900:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/155948.212:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/155948.213:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/160011.879:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/160011.879:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/160259.795:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/160259.795:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/160716.200:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/160716.200:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/160810.763:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/160810.763:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/161628.745:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/161628.746:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/163552.850:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/163552.868:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/163820.861:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/163820.861:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/163934.207:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/163934.207:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/164032.471:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/164032.472:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0427/164407.001:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0427/164407.002:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0502/090122.351:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0502/090122.540:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0502/090439.742:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0502/090439.743:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
