@@ -24,7 +24,8 @@ public class Main {
         Map conf = new HashMap();
         conf.put("app.host","localhost:8072");
         conf.put("app.context","etracs25"); //bpls
-        
+        conf.put("app.custom","buk");
+        conf.put("ws.host","localhost:8063");
         //conf.put("app.host","192.168.2.100:8070");
         //conf.put("app.context","etracs25");
         conf.put("app.cluster","osiris3");

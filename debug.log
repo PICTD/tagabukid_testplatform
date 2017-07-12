@@ -865,3 +865,314 @@
 [0502/090122.540:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
 [0502/090439.742:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
 [0502/090439.743:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/140200.157:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/140200.407:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/140740.672:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/140740.673:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/141102.006:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/141102.007:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/141405.063:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/141405.063:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/141440.955:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/141440.955:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/143745.950:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/143745.959:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/144745.030:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/144745.030:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/144833.710:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/144833.711:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/145220.133:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/145220.134:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/145428.781:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/145428.782:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/145431.081:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 1
+[0509/151006.739:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/151006.740:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/151009.192:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 11
+[0509/151009.198:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 13
+[0509/152809.380:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/152809.380:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/153010.885:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/153010.886:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/153728.060:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/153728.060:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/153853.974:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/153853.975:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/153944.730:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/153944.731:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/155555.369:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/155555.369:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/155652.244:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/155652.244:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/160004.861:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/160004.861:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/160222.506:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/160222.507:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/160348.699:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/160348.701:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/160729.662:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/160729.662:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/160738.906:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 1
+[0509/161050.154:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/161050.154:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/161132.808:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/161132.809:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/161256.098:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/161256.098:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/161618.241:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/161618.242:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/162835.213:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/162835.213:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/162953.571:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/162953.572:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/163103.505:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/163103.506:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/163244.551:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/163244.551:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/163615.321:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/163615.322:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0509/163637.555:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 9
+[0509/163741.654:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0509/163741.655:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0516/092112.284:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0516/092113.263:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0523/160046.223:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0523/160046.345:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0523/160939.846:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0523/160939.846:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0524/081238.440:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0524/081238.441:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0524/081434.722:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0524/081434.723:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/081554.394:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/081554.394:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/081711.291:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/081711.291:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/081806.077:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/081806.078:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/081859.893:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/081859.894:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/081942.304:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/081942.304:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/082104.723:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/082104.723:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/084620.029:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/084620.030:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/084706.140:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/084706.141:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/084736.115:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/084736.116:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/084808.339:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/084808.339:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/084810.167:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 9
+[0525/085011.303:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/085011.304:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/085215.475:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/085215.475:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/085218.741:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 11
+[0525/085218.747:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 13
+[0525/085542.931:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/085542.932:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/085916.329:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/085916.330:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/090138.960:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/090138.960:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/090423.679:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/090423.679:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/090426.282:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 9
+[0525/090545.666:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/090545.667:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/090924.783:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/090924.784:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/090947.503:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/090947.503:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/091251.304:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/091251.305:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/091447.352:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/091447.353:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/091549.914:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/091549.915:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/091554.390:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 1
+[0525/091611.735:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/091611.736:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/091710.146:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/091710.147:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/093856.136:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/093856.137:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/093901.697:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 11
+[0525/093901.698:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 13
+[0525/094956.595:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/094956.596:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/095144.691:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/095144.692:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/100054.904:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/100054.905:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/100323.720:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/100323.721:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/101106.415:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/101106.416:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/101110.936:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 1
+[0525/102927.970:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/102927.970:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/102951.668:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/102951.668:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/103053.471:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/103053.472:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/103244.775:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/103244.775:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/103322.166:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/103322.167:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/103323.589:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 1
+[0525/103355.759:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/103355.760:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/103357.507:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 3
+[0525/103357.583:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 7
+[0525/103357.835:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 5
+[0525/103423.692:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/103423.693:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/103523.682:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/103523.682:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/103611.871:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/103611.871:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/103941.270:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/103941.271:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/104117.298:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/104117.298:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/104349.703:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/104349.704:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/104520.858:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/104520.859:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/104640.082:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/104640.082:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/104835.316:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/104835.317:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/104838.411:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 5
+[0525/104929.697:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/104929.698:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/105337.468:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/105337.468:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/105455.470:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/105455.471:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/105601.567:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/105601.568:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/110035.396:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/110035.397:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/111102.710:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/111102.710:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/111652.325:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/111652.326:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/111904.519:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/111904.520:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/111906.902:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 1
+[0525/112120.450:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/112120.450:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/112213.665:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/112213.666:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/112216.009:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 1
+[0525/112255.090:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/112255.090:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/114107.446:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/114107.447:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/114838.211:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/114838.212:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/114924.042:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/114924.043:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/125945.678:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/125945.679:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/132025.794:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/132025.795:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/132025.799:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0525/132025.799:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0525/132025.799:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0525/132025.799:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0525/132025.800:ERROR:browser_gpu_channel_host_factory.cc(113)] Failed to launch GPU process.
+[0525/132230.032:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/132230.032:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/132626.283:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/132626.284:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/132705.054:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/132705.054:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/133020.714:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/133020.715:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/134433.525:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/134433.525:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/134455.407:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/134455.407:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/134521.424:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/134521.424:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/134524.035:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 1
+[0525/134558.217:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/134558.218:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/134559.584:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 1
+[0525/134604.300:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 13
+[0525/134656.119:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/134656.120:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/134658.487:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 1
+[0525/134800.594:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/134800.595:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/134859.322:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/134859.323:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/135018.202:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/135018.203:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/135145.902:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/135145.902:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/135147.780:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 3
+[0525/135328.689:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/135328.689:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/135627.795:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/135627.795:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/135840.010:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/135840.011:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/140217.577:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/140217.577:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/140834.523:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/140834.526:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/141455.647:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/141455.647:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/141549.775:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/141549.775:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/141726.787:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/141726.787:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/141902.400:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/141902.400:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/141936.934:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/141936.935:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/143857.673:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/143857.674:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/143901.536:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 3
+[0525/143901.539:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 7
+[0525/143901.714:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 5
+[0525/143907.590:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 17
+[0525/144011.934:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/144011.934:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/145211.103:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/145211.104:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/145213.339:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 5
+[0525/145213.342:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 7
+[0525/145216.935:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 1
+[0525/145216.954:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 1
+[0525/145907.420:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/145907.421:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/150010.092:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/150010.092:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/150102.697:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/150102.697:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/150104.541:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 9
+[0525/150141.405:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/150141.405:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/150146.391:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 7
+[0525/150220.253:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/150220.253:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/151105.246:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/151105.247:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/151108.466:WARNING:spdy_session.cc(2224)] Received HEADERS for invalid stream 11
+[0525/151133.537:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/151133.538:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/152112.642:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/152112.643:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/152431.151:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/152431.152:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0525/152525.664:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0525/152525.664:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
+[0530/132701.981:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 297
+[0530/132702.049:ERROR:gpu_child_thread.cc(327)] Exiting GPU process due to errors during initialization
